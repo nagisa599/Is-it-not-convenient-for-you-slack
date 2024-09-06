@@ -20,7 +20,10 @@ export default async function IndexPage() {
           </h1>
           <p className="max-w-[42rem] font-display leading-normal text-muted-foreground sm:text-xl sm:leading-8">
             A fullstack template for Next.js with TypeScript, Tailwind CSS,
-            Prisma, and PostgreSQL.
+            Prisma, and PostgreSQL. 7月7日 :+1: 7月8日　:両目: 7月9日　:祈る:
+            7月10日　:力こぶ: 7月11日　:おじぎ: 7月12日　:バンザイ:
+            7月13日　:クラッカー: 7月14日　:チェックマーク_緑: 7月15日　:大泣き:
+            7月16日　:拍手: 7月17日　:okサイン:
           </p>
           <div className="space-x-4">
             <Link href="/login" className={cn(buttonVariants({ size: 'lg' }))}>
